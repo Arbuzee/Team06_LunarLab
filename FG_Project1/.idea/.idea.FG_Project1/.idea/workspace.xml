@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc5ab0de-cc4e-48c7-9805-3114867298e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Heatpad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProjectileShooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraOffsetZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ResetHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Thruster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrustMeterZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IGravitable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateForever.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HighSpeedVFX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Goal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LostControlZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Leaderboard.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Level Tools/GarvityAffecter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IGravitable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LostControlZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThrustMeterZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/GravityEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Level Tools/GravityAffecter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/DeadlyRingEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Thruster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotateForever.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ResetHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraOffsetZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/LeaderboardEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Heatpad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/HighSpeedVFX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Leaderboard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DisplayLeaderboard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Goal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu Scripts/MainMenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu Scripts/PlayerSettings.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iVKhO2sndmVyuvWGp1h74ICDL1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc5ab0de-cc4e-48c7-9805-3114867298e2" name="Default Changelist" comment="" />
+      <created>1601987438178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601987438178</updated>
+      <workItem from="1601987444110" duration="5893000" />
+      <workItem from="1602054925775" duration="21594000" />
+      <workItem from="1602142111437" duration="25617000" />
+      <workItem from="1602230771540" duration="18788000" />
+      <workItem from="1602489612173" duration="246000" />
+      <workItem from="1602489968626" duration="12720000" />
+      <workItem from="1602578409276" duration="9254000" />
+      <workItem from="1602661512730" duration="19580000" />
+      <workItem from="1602747219962" duration="24806000" />
+      <workItem from="1602788818185" duration="374000" />
+      <workItem from="1602790002506" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1273" y="0" width="1294" height="1407" key="dock-window-1" timestamp="1602684904166">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1273" y="0" width="1294" height="1407" key="dock-window-1/0.0.2560.1400/-1920.367.1920.1040@0.0.2560.1400" timestamp="1602684904166" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1602064252575">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/-1920.367.1920.1040@0.0.2560.1400" timestamp="1602064252575" />
+    <state x="369" y="616" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602789036367">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="369" y="616" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2560.1400/-1920.367.1920.1040@0.0.2560.1400" timestamp="1602789036367" />
+  </component>
+</project>
